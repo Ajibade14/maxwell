@@ -34,7 +34,7 @@ export default function Navbar(){
                     <a href="#" className="mt-2 block text-gray-400">Product/Services</a>
                     </li> */}
                     <li>
-                    <a href="https://maxwellsavings2.finkia.com.ng" className="mt-2 block text-gray-400 hover:text-gray-200">Sign in</a>
+                    <a href="https://maxwellsavings2.finkia.com.ng/signin" className="mt-2 block text-gray-400 hover:text-gray-200">Sign in</a>
                     </li>
                     {/* <li>
                     <a href="/signup" className="mt-2 block text-gray-400 hover:text-gray-200">Sign up</a>

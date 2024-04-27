@@ -27,8 +27,8 @@ export default function AboutUs(){
     
     return(
         <div id="about-content" className={`text-black  bg-[#E3E7FA] py-12  md:px-[4%]   mt-16`}>
-            <h2 className="text-3xl font-bold">About us</h2>
-            <p className="my-8 text-left md:mr-[4%] text-left">
+            <h2 className="text-3xl font-bold p-4">About us</h2>
+            <p className="my-8 text-left md:mr-[4%] text-left p-4">
             Maxwell savings is a traditional thrift management company - popularly known as ajo, esusu or adashe. The company was founded 1st February, 2017. As a customer, you can choose to save your money with Maxwell Savings on a daily and weekly basis. And you can also collect your saved funds on a monthly, quarterly or yearly basis.
             </p>
             {/* <p className={`mt-2 ${!isHomepage ? 'hidden' : 'block'}`}>Finkia achieves this by:</p> */}
@@ -38,7 +38,7 @@ export default function AboutUs(){
             <div className={`mt-2 `}>
                 {data.map((item, index) => (
                     <div key={index} className="md:flex justify-between mb-[30%] md:mb-[10%]">
-                    <div className="mt-8">
+                    <div className="mt-8 p-4">
                         <Image
                         alt="text item"
                         src="/about-text.svg"

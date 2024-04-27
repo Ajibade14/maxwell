@@ -197,7 +197,7 @@ export default function ContactUs({bg}: {bg?: string}){
 
               <div className="text-white">
                  <h2 className="font-bold text-4xl">Office Address</h2>
-                <p className="pt-4">1A, Hughes Avenue, Alagomeji, Yaba, Lagos, Nigeria.</p>
+                <p className="pt-4">15, Alhaji Kazrem Street, Ojota, Lagos, Nigeria.</p>
               </div>
               <div className="text-white">
                  <h2 className="font-bold text-4xl">Telephone</h2>
