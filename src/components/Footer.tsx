@@ -6,7 +6,7 @@ export default function Footer(){
     return(
         <div >
             <div className="mt-[4%] mx-[6%]">
-                <p className="text-xl font-semibold text-[#EAAB40] pb-4">Maxwell</p>
+                <p className="text-xl font-semibold text-[#EAAB40] pb-4">Maxwell Savings</p>
                 
                 <div className="md:flex justify-between">
                     <div className="flex">
